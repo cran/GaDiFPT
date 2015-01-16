@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+
+S3method(plot, FPTdensity)
+S3method(print, diffusion)
+S3method(print, inputlist)

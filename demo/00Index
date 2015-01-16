@@ -1,0 +1,7 @@
+Wiener          R example script for the package GaDiFPT: Wiener process through a constant boundary
+Wiener1         R example script for the package GaDiFPT: Wiener process through a periodic boundary
+WienerDrift     R example script for the package GaDiFPT: Wiener process with drift through a linear boundary
+OrnUhl          R example script for the package GaDiFPT: Ornstein-Uhlenbeck process through a constant boundary 
+OrnUhlCurrent   R example script for the package GaDiFPT: Ornstein-Uhlenbeck process with additional current through a constant boundary 
+Logistic        R example script for the package GaDiFPT: generic diffusion with time-dependent coefficients through a constant boundary
+
